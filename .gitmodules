@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "PrevMap"]
+	path = PrevMap
+	url = https://github.com/giorgilancs/prevmap
+	shallow = true
+	registered = true
